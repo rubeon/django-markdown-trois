@@ -1,10 +1,11 @@
-**Note: This repo is unmaintained and has been for a while. If you are
-interested in taking over this repo, then please let me know (trentm at
-google's email thing).**
+This is a fork of the venerable `markdown_deux` Django package originally
+maintained by @trentm. The original can be found
+[here][https://github.com/trentm/django-markdown-deux].
 
-* * *
+***
 
 A small Django app that provides template tags for using
+
 [Markdown](http://daringfireball.net/projects/markdown/) using the
 [python-markdown2](https://github.com/trentm/python-markdown2) library.
 
